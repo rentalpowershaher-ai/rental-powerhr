@@ -1,0 +1,7 @@
+{
+  "appId": "com.rentalpower.vacations",
+  "appName": "Rental Power",
+  "webDir": "www",
+  "server": { "url": "https://ضع-دومين-موقعك-هنا", "cleartext": false },
+  "android": { "allowMixedContent": false }
+}

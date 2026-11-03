@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629354300335",
+    "project_id": "rental-power-vacations",
+    "storage_bucket": "rental-power-vacations.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629354300335:android:a4e51ccec8cb563b4c655a",
+        "android_client_info": {
+          "package_name": "com.rentalpower.vacations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1TmEvfEb298ezhKq652zBxUXtwMAYd98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
